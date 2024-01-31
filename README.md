@@ -1,5 +1,4 @@
-[![MasterHead]([https://risiyanto.com/1/hello-world/](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png))](https://resume.samokorie.com)
-
+[![MasterHead](https://github.com/Pranav-Programmer/Pranav-Programmer/blob/main/Screenshot%202023-06-07%20140503.png?raw=true)](https://resume.samokorie.com)
 
 <h1 align="center">Hi 👋, I'm Samuel Okorie</h1>
 <h3 align="center">A passionate frontend developer from Nigeria...</h3>

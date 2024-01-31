@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/47266984/60874825-35d71800-a26b-11e9-9d20-2dcc2fe515d5.png)](https://resume.samokorie.com)
+[![MasterHead](https://risiyanto.com/1/hello-world/)](https://resume.samokorie.com)
 
 
 <h1 align="center">Hi 👋, I'm Samuel Okorie</h1>

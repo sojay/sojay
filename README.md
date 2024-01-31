@@ -1,4 +1,4 @@
-[![MasterHead](https://risiyanto.com/1/hello-world/)](https://resume.samokorie.com)
+[![MasterHead]([https://risiyanto.com/1/hello-world/](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png))](https://resume.samokorie.com)
 
 
 <h1 align="center">Hi 👋, I'm Samuel Okorie</h1>

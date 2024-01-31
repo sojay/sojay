@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Samuel Okorie</h1>
-<h3 align="center">A passionate frontend developer from Nigeria...</h3>
+<h3 align="center">A passionate frontend developer from Ontario, Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojay&label=Profile%20views&color=0e75b6&style=flat" alt="sojay" /> </p>

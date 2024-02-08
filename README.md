@@ -11,13 +11,12 @@
 
 - 🔭 I’m currently working on **https://resume.samokorie.com**
 
-- 🌱 I’m currently learning **Kubernetes and Containerisation**
+- 🐬 I’m currently learning **Kubernetes and Containerisation**
 
 - 👨‍💻 All of my projects are available at [https://resume.samokorie.com](https://resume.samokorie.com)
 
 - 💬 Ask me about **CI/CD, DevOps**
 
-- 📫 How to reach me **csokorie@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

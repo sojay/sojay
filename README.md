@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://resume.samokorie.com](https://resume.samokorie.com)
 
-- 💬 Ask me about **CI/CD, DevOps**
+- 💬 Ask me about **CI/CD, DevOps, Amateur Radio**
 
 
 <h3 align="left">Connect with me:</h3>

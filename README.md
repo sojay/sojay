@@ -9,11 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/therealsojay" target="blank"><img src="https://img.shields.io/twitter/follow/therealsojay?logo=twitter&style=for-the-badge" alt="therealsojay" /></a> </p>
 
-- 🔭 I’m currently working on **https://resume.samokorie.com**
-
 - 🐬 I’m currently learning **Kubernetes and Containerisation**
-
-- 👨‍💻 All of my projects are available at [https://resume.samokorie.com](https://resume.samokorie.com)
 
 - 💬 Ask me about **CI/CD, DevOps, Amateur Radio**
 

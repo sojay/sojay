@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojay&label=Profile%20views&color=0e75b6&style=flat" alt="sojay" /> </p>
 
-<p align="left"> <a href="https://twitter.com/therealsojay" target="blank"><img src="https://img.shields.io/twitter/follow/therealsojay?logo=twitter&style=for-the-badge" alt="therealsojay" /></a> </p>
-
 - 🐬 I’m currently learning **Kubernetes and Containerisation**
 
 - 💬 Ask me about **CI/CD, DevOps, Amateur Radio**

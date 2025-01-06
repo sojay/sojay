@@ -1,7 +1,7 @@
 [![MasterHead](https://drjplopes.com/media/BlogBanners/Hello-World_Banner.png)](https://resume.samokorie.com)
 
 
-<h1 align="center">Hi 👋, I'm Samuel Okorie</h1>
+<h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">Passionate about cloud technologies, and sharing my experience in DevOps, and opensource projects</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 

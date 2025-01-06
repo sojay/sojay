@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojay&label=Profile%20views&color=0e75b6&style=flat" alt="sojay" /> </p>
 
-- 🐬 I’m currently learning **Kubernetes and Containerisation**
+#- 🐬 I’m currently learning **Kubernetes and Containerisation**
 
 - 💬 Ask me about **CI/CD, DevOps, Amateur Radio**
 

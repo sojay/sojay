@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojay&label=Profile%20views&color=0e75b6&style=flat" alt="sojay" /> </p>
 
-- 💬 Ask me about **CI/CD, DevOps, Amateur Radio**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

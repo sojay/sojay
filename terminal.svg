@@ -41,7 +41,6 @@
 
   <!-- Data rows — y starts at 126, step 24 -->
   <text x="28" y="126"><tspan class="key">Role</tspan><tspan class="dim">  ....  </tspan><tspan class="val">Cloud &amp; Infrastructure Engineer</tspan></text>
-  <text x="28" y="150"><tspan class="key">Certs</tspan><tspan class="dim"> ...  </tspan><tspan class="val">CKA · RHCSA · AWS SA</tspan></text>
   <text x="28" y="174"><tspan class="key">Stack</tspan><tspan class="dim"> ...  </tspan><tspan class="val">K8s · Terraform · Ansible · Go</tspan></text>
   <text x="28" y="198"><tspan class="key">CI/CD</tspan><tspan class="dim"> ...  </tspan><tspan class="val">Jenkins · GitLab CI · ArgoCD · Flux</tspan></text>
   <text x="28" y="222"><tspan class="key">Cloud</tspan><tspan class="dim"> ...  </tspan><tspan class="val">AWS · Azure · GCP</tspan></text>

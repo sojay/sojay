@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="280" valign="top">
-  <img src="https://www.gravatar.com/avatar/c4044d8c224d2535f8300b3b7c08af85?s=260" width="260" />
+  <img src="./avatar.png" width="260" />
 </td>
 <td valign="top">
 <pre>

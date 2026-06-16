@@ -1,12 +1,4 @@
-### Infrastructure depth over dashboards. 12 years from bare-metal to multicloud.
-
-<table>
-<tr>
-<td width="280" valign="top">
-  <img src="./avatar.png" width="260" />
-</td>
-<td valign="top">
-<pre>
+```
 sojay@github ~
 ──────────────────────────────────────────
 Role .... Cloud & Infrastructure Engineer
@@ -20,7 +12,4 @@ OSS ..... home-operations/tuppr
 ──────────────────────────────────────────
 Web ..... resume.samokorie.com
 LinkedIn  linkedin.com/in/sokorie
-</pre>
-</td>
-</tr>
-</table>
+```

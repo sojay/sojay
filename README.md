@@ -1,6 +1,4 @@
-**Infrastructure depth over dashboards. 12 years from bare-metal to multicloud.**
-
----
+### Infrastructure depth over dashboards. 12 years from bare-metal to multicloud.
 
 <table>
 <tr>

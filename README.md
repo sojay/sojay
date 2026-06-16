@@ -16,6 +16,7 @@ CI/CD ... Jenkins · GitLab CI · ArgoCD
 Cloud ... AWS · Azure · GCP
 Obs ..... Prometheus · Grafana · Loki
 Now ..... homelab automation + OSS
+OSS ..... home-operations/tuppr
 ──────────────────────────────────────────
 Web ..... resume.samokorie.com
 LinkedIn  linkedin.com/in/sokorie
